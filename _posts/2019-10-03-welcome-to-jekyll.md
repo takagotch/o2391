@@ -38,21 +38,6 @@ print_hi('Tom')
 
 Check out the [Jekyll docs][jekyll-docs]{:target="_blank"} for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]{:target="_blank"}. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk]{:target="_blank"}.
 
-# Examples
-
-**Titles with icon - Plugin Fa**
-
-## Table
-
-First Header | Second Header
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
-
-
-**Notes:**
-
-> We're living the future so the present is our past.
 
 ## Image responsive (plugin Imager)
 
